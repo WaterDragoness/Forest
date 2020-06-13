@@ -763,7 +763,6 @@ Transform:
   - {fileID: 1557816142}
   - {fileID: 1454146033}
   - {fileID: 1377188222}
-  - {fileID: 2016943334}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3592,17 +3591,12 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 424854259}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 8230430361782433655, guid: f82307fbf6cc23f448b06b6716121cb5,
         type: 3}
       propertyPath: m_Name
       value: Low_Poly_Eevee_Tipatat_Chennavasin_62QYyQZtnMl
-      objectReference: {fileID: 0}
-    - target: {fileID: 8230430361782433655, guid: f82307fbf6cc23f448b06b6716121cb5,
-        type: 3}
-      propertyPath: m_Layer
-      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
         type: 3}
@@ -3642,7 +3636,7 @@ PrefabInstance:
     - target: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
         type: 3}
@@ -3659,29 +3653,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.0000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4617782686197752907, guid: f82307fbf6cc23f448b06b6716121cb5,
-        type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82307fbf6cc23f448b06b6716121cb5, type: 3}
---- !u!4 &2016943334 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 9102750198392441147, guid: f82307fbf6cc23f448b06b6716121cb5,
-    type: 3}
-  m_PrefabInstance: {fileID: 2016943333}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2055541292
 PrefabInstance:
   m_ObjectHideFlags: 0
