@@ -1,0 +1,3 @@
+asian-girl_anime-clean.bin -> 71197F7CDFE52E788BC4A33AF15D47B2.bin
+hair_color_mat.png -> B2789BBD915C8217B3DAC9D72572A91E.png
+asian_body_color_mat.png -> EAC710B4989E70A424B5357153706917.png

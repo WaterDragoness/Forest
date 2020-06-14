@@ -1,0 +1,2 @@
+scopeglossy.bin -> A9A7471D80349673BED8CFF8E75ED7C5.bin
+Separato_UV1_default_color.png -> 4A53FAE21B7103A2BA35A801A87AB69B.png

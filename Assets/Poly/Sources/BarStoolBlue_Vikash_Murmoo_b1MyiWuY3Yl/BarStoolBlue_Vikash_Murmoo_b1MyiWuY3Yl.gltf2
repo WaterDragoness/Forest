@@ -1,0 +1,204 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1264,
+      "max": [
+        0.22220414876937866,
+        0.8657568693161011,
+        0.22220417857170105
+      ],
+      "min": [
+        -0.22220417857170105,
+        0.0,
+        -0.22220414876937866
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1264,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1264,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 4410,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 322,
+      "max": [
+        0.19178979098796844,
+        0.9628013372421265,
+        0.19178980588912964
+      ],
+      "min": [
+        -0.19178982079029083,
+        0.8459149599075317,
+        -0.19178980588912964
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 322,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 322,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 1920,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.1.45",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 15168,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15168,
+      "byteOffset": 15168
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10112,
+      "byteOffset": 30336
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8820,
+      "byteOffset": 40448
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3864,
+      "byteOffset": 49268
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3864,
+      "byteOffset": 53132
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2576,
+      "byteOffset": 56996
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3840,
+      "byteOffset": 59572
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 63412,
+      "uri": "BarStoolBlue.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Chrome",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6231016516685486,
+          0.6231016516685486,
+          0.6231016516685486,
+          1.0
+        ],
+        "metallicFactor": 1.0,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "BarStoolCushionBlue",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          9.105205535888672E-4,
+          0.25415217876434326,
+          0.9822507500648499,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "BarStoolBlue",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "BarStoolBlue"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

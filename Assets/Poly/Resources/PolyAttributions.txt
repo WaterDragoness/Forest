@@ -1,5 +1,29 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: BarStoolBlue
+Author: Vikash Murmoo
+URL: https://poly.google.com/view/b1MyiWuY3Yl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Japanese Girl in a Kimono
+Author: Felipe Lujan-Bear
+URL: https://poly.google.com/view/9Azkt6Bc5dD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Charmander
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/d6Ar6_NHbgS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Cubone
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/cc7gCdKaQYU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Low Poly Dratini
 Author: Tipatat Chennavasin
 URL: https://poly.google.com/view/bO68CLhdP_c
@@ -12,6 +36,30 @@ URL: https://poly.google.com/view/62QYyQZtnMl
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Low Poly Jigglypuff
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/2yQA0j-YAj6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Mew
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/3riRBivJah7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Pikachu
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/9Apgj-wpfgb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Squirtle
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/b9AHRGUN8jM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Meditation
 Author: Wyatt Roy
 URL: https://poly.google.com/view/c8_r_qYOPcH
@@ -21,5 +69,11 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Pagoda
 Author: Anonymous
 URL: https://poly.google.com/view/3ZSb03wXp0w
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Stargazer
+Author: Miguelangelo Rosario
+URL: https://poly.google.com/view/1rJ7N49eTbg
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
