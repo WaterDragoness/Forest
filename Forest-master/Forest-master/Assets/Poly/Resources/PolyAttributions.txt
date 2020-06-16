@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Low Poly Dratini
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/bO68CLhdP_c
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Eevee
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/62QYyQZtnMl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Meditation
+Author: Wyatt Roy
+URL: https://poly.google.com/view/c8_r_qYOPcH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pagoda
+Author: Anonymous
+URL: https://poly.google.com/view/3ZSb03wXp0w
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
